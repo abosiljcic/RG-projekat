@@ -15,7 +15,7 @@ Pridruzite nam se i uzivajte u jedinstvenom iskustvu koje pruzamo-plovite oko za
 
 A grupa: `Skybox` - *Jelena* , `Instancing` - *Andrijana*
 
-B grupa: `Parallax mapping` , `Normal mapping` - *Jelena* , `SSAO` - *Andrijana* , `Deferred Shading` - *Andrijana*, `Bloom` - *Jelena*
+B grupa: `Parallax mapping` , `Normal mapping` - *Jelena* , `SSAO` - *Andrijana* , `Deferred Shading` - *Andrijana*
 
 ### Komande:
 
@@ -24,7 +24,3 @@ B grupa: `Parallax mapping` , `Normal mapping` - *Jelena* , `SSAO` - *Andrijana*
 `Strelice` - pomeranje brodića
 
 `B` - Blinn-Phong on/off
-
-`L` - Bloom on/off
-
-`E` `Q`  - Exposure 
